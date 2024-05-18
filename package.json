@@ -1,0 +1,19 @@
+{
+  "name": "venominer-v3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Qrodex",
+  "license": "AGPL-3.0-only",
+  "dependencies": {
+    "@ptkdev/logger": "^1.8.0",
+    "avr8js": "^0.15.0",
+    "axios": "^1.6.8",
+    "pkg": "^5.8.1",
+    "promise-socket": "^7.0.0"
+  }
+}
